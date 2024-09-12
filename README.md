@@ -1,4 +1,4 @@
-"# Code-Generation-GPT2" 
+"Code-Generation-GPT2" 
 
 Overview of the AI Model:
 
